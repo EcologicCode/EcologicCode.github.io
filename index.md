@@ -6,3 +6,9 @@
 <a href="Root/OpenCreators/OpenCreators.exe">Télécharger OpenCreators</a><br>
 <a href="Web/" target="about:">Outils du site...</a>
 
+<script type="module" src="/JQuery/js.cookie.mjs"></script>
+<script type="module">
+  import Cookies from '/JQuery/js.cookie.mjs'
+
+  Cookies.set('foo', 'bar')
+</script>
