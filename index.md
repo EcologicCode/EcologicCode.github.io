@@ -10,7 +10,7 @@
 <script type="module">
   import Cookies from '/JQuery/js.cookie.min.mjs'
 
-  if(Cookies.get('lang') == "undefined"){
+  if(!Cookies.get('lang') == "undefined"){
   Cookies.set('lang', navigator.language, { expires: 365 });
   }else {
     var lang = Cookies.get('lang');
