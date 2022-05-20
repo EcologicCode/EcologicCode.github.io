@@ -5,3 +5,4 @@
 <button onclick="location.href='lang.html'">Langs</button><br>
 <a href="Root/OpenCreators/OpenCreators.exe">Télécharger OpenCreators</a><br>
 <a href="Web/" target="about:">Outils du site...</a>
+
