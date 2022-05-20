@@ -6,9 +6,14 @@
 <a href="Root/OpenCreators/OpenCreators.exe">Télécharger OpenCreators</a><br>
 <a href="Web/" target="about:">Outils du site...</a>
 
-<script type="module" src="/JQuery/js.cookie.mjs"></script>
+<script type="module" src="/JQuery/js.cookie.min.mjs"></script>
 <script type="module">
-  import Cookies from '/JQuery/js.cookie.mjs'
+  import Cookies from '/JQuery/js.cookie.min.mjs'
 
-  Cookies.set('foo', 'bar')
+  if(!Cookies.get('lang') == "undefined"){
+  Cookies.set('lang', navigator.language, { expires: 365 });
+  }else {
+    var lang = Cookies.get('lang');
+    if(lang=""){}
+  }
 </script>
