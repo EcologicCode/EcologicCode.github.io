@@ -75,8 +75,8 @@
                 <p><b><span class="ui-icon ui-icon-alert" style="float:
                       left; margin-right: 0.3em;"></span></b><font color="#ff3333"><font style="font-size: 15pt"><b>
                       Avis aux Utilisateurs de Microsoft Internet Explorer <noscript>: Vous êtes concerné</noscript></b><br />
-                  Merci d'utiliser un autre navigateur ou d'activer javascript.<br />
-                  Pour ceux utilisants des bon Navigateurs (edge, safari, chrome, firefox, opera...), c'est très bien !</font></font></p>
+                  <noscript>Merci d'utiliser un autre navigateur ou d'activer javascript.<br />
+                  Pour ceux utilisants des bon Navigateurs (edge, safari, chrome, firefox, opera...), c'est très bien !</noscript><div id="avis"></div></font></font></p>
               </div>
             </div>
           <h1>Linux (Plus précisément Ubuntu & Kubuntu Plasma)</h1>
@@ -93,8 +93,10 @@
     if(lang=""){}
   }
 </script>
-
-
+            <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script type="text/javascript">
+  $("#avis").html("Youhou ! <br>Vous avez javascipt ! <br>Et vous peut-être pas Microsoft Internet Explorer !");
+            </script>
         </section>
 
         <aside id="sidebar">
