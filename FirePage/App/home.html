@@ -1,1 +1,26 @@
-FirePage
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>FirePage</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+</head>
+<body>
+    <center>
+        <h1>FirePage</h1>
+        <p>
+            <input type="text" id="Google"><input type="button" onClick="search();" value="Rechercher">
+            <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script type="text/javascript">
+  var searchtxt;
+
+  function search() {
+    searchtxt = $("#Google").val();
+    location.href="https://google.fr/search?q="+searchtxt;
+  }
+</script>
+        </p>
+    </center>
+</body>
+</html>
