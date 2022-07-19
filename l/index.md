@@ -1,3 +1,4 @@
+<h1>Redirection...</h1>
 <noscript>Please active Javascript</noscript>
 <script type="text/javascript">
   var link = window.location.href;
