@@ -8,4 +8,4 @@ Attention : Il faut un système de cloud (Wetransfer, pour les fichiers temporai
 
 <div id="Share"><h1>Partager</h1></div>
 
-[Depuis une section du site ou une section du site](#Share-section) | [Un fichier](#Share-file) | [Une Url](#Share-Url) | [Une page Web](#Share-web) | [Une idée](#Share-idea) | [Du texte](#Share-text)
+| [Depuis une section du site ou une section du site](#Share-section)<br> | [Un fichier](#Share-file)<br> | [Une Url](#Share-Url)<br> | [Une page Web](#Share-web)<br> | [Une idée](#Share-idea)<br> | [Du texte](#Share-text)
