@@ -6,5 +6,4 @@ Attention : Il faut un système de cloud (Wetransfer, pour les fichiers temporai
 
 [A propos de Share System](about.html) | [Partager...](#Share)<br>
 
-
 <div id="Share"><h1>Partager</h1></div>
