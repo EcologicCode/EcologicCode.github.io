@@ -9,3 +9,7 @@ Attention : Il faut un système de cloud (Wetransfer, pour les fichiers temporai
 <div id="Share"><h1>Partager</h1></div>
 
 [Depuis une section du site ou une section du site](#Share-section)<br>[Un fichier](#Share-file)<br>[Une Url](#Share-Url)<br>[Une page Web](#Share-web)<br>[Une idée](#Share-idea)<br>[Du texte](#Share-text)
+
+<h1 id="Share-section">Partager... Depuis une section du site ou Partager une section du site</h1>
+<h2>Depuis une section du site</h2>
+<hr>
