@@ -8,8 +8,21 @@ Attention : Il faut un système de cloud (Wetransfer, pour les fichiers temporai
 
 <div id="Share"><h1>Partager</h1></div>
 
-[Depuis une section du site ou une section du site](#Share-section)<br>[Un fichier](#Share-file)<br>[Une Url](#Share-Url)<br>[Une page Web](#Share-web)<br>[Une idée](#Share-idea)<br>[Du texte](#Share-text)
+[Depuis une section du site la section](#Share-section)<br>[Un fichier](#Share-file)<br>[Une Url](#Share-Url)<br>[Une page Web](#Share-web)<br>[Une idée](#Share-idea)<br>[Du texte](#Share-text)
 
-<h1 id="Share-section">Partager... Depuis une section du site ou Partager une section du site</h1>
-<h2>Depuis une section du site</h2>
-<hr>
+<h1 id="Share-section">Partager... Depuis une section du site la section
+</h1>
+<ol><li>Sur la section choisie, chercher le bouton "Partager..." en bas de page.</li><br>
+<li>Sur la page suivante, sélectionnez "Obtenir une adresse de partage ShareSystem...".</li>
+<li>Patientez la création d'Url.</li>
+<li>Copiez votre URL, et partagez-la !</li>
+</ol>
+<h1 id="Share-file">Partager... Un fichier</h1>
+<video controls width="250">
+
+    <source src="Wetransfert.mp4"
+            type="video/mp4">
+
+    Sorry, your browser doesn't support embedded videos.
+</video>
+
