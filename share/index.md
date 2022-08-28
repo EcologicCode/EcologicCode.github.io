@@ -18,7 +18,7 @@ Attention : Il faut un système de cloud (Wetransfer, pour les fichiers temporai
 <li>Copiez votre URL, et partagez-la !</li>
 </ol>
 <h1 id="Share-file">Partager... Un fichier</h1>
-<video controls width="250">
+<video controls width="350" height="350">
 
     <source src="Wetransfert.mp4"
             type="video/mp4">
