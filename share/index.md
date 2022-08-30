@@ -18,5 +18,5 @@ Attention : Il faut un système de cloud (Wetransfer, pour les fichiers temporai
 <li>Copiez votre URL, et partagez-la !</li>
 </ol>
 <h1 id="Share-file">Partager... Un fichier</h1>
-<video controls="" preload="metadata"><source src="Wetransfert.mp4"></video>
+<video controls="" preload="metadata"><source src="https://ecologiccode.github.io/share/Wetransfert.mp4"></video>
 
