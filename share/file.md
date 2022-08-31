@@ -11,5 +11,6 @@ jQuery(function(){
         $("#text").val(decodeURI(words[1]));
         text = decodeURI(words[1]);
 	jQuery('#qrcode').qrcode(text);
+    window.open('', document.getElementById('qrcode').toDataURL());
 })
 </script>
