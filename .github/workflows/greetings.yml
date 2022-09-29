@@ -1,6 +1,11 @@
 name: Greetings
 
-on: [pull_request_target, issues]
+on: 
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  workflow_dispatch:
 
 jobs:
   greeting:
