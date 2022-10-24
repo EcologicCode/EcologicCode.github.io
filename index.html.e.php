@@ -4,8 +4,8 @@
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <link rel="stylesheet" href="/assets/css/style.css?v=c554c1c0b6cc885cdfbfdb90210029e3628d2861" media="screen" type="text/css">
-    <link rel="stylesheet" href="/assets/css/print.css" media="print" type="text/css">
+    <link rel="stylesheet" href="https://ecologiccode.github.io/assets/css/style.css?v=c554c1c0b6cc885cdfbfdb90210029e3628d2861" media="screen" type="text/css">
+    <link rel="stylesheet" href="https://ecologiccode.github.io/assets/css/print.css" media="print" type="text/css">
 
     <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -39,7 +39,7 @@
 
 
 <!-- You can set your favicon here -->
-<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="https://ecologiccode.github.io/favicon.ico">
 
 <!-- end custom head snippets -->
 
@@ -69,7 +69,7 @@
 <a href="Web/" target="about:">Outils du site...</a>
 <a href="Store_center/">Store Center : Le Store Officiel d'ExologicCode.</a>
           <h1 onclick="location.href=\"Linux/\"">Linux (Plus précisément Ubuntu & Kubuntu Plasma)</h1>
-<script type="module" src="/JQuery/js.cookie.min.mjs"></script>
+<script type="module" src="https://ecologiccode.github.io/JQuery/js.cookie.min.mjs"></script>
 
 <script type="module">
   import Cookies from '/JQuery/js.cookie.min.mjs'
